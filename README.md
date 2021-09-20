@@ -2,7 +2,7 @@
 
 ## To clone this repo
 
-` https://github.com/ursaeminor/conv-lstm-mnist.git `
+` https://github.com/ixdhruv/conv-lstm-mnist.git `
 
 To run the code use ` python3 src.py path_to_folder `.
 
